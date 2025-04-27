@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Satrio Ramadhan!
 
 ### About Me
-I'm a passionate developer who loves building web applications, automating stuff, and experimenting with new technologies. Always learning, always improving.
+I am a passionate developer who loves building web applications, and experimenting with new technologies. Eager to learn, and always looking to improve.
 
 - Last worked on: Laravel Web Cashier & Web Youtube Converter
 - Currently learning: Advanced Laravel, Tailwind CSS, and System Design
