@@ -31,4 +31,3 @@ I'm a passionate developer who loves building web applications, automating stuff
 
 ### How to reach me
 - Email: [rylieo88@gmail.com](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=rylieo88@gmail.com)
-- LinkedIn: [linkedin.com/in/muhammad-satrio-2583482aa](https://www.linkedin.com/in/muhammad-satrio-2583482aa/)
