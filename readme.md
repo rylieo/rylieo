@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muhammad Satrio Ramadhan!
+# Hi there, I'm Muhammad Satrio Ramadhan!
 
 ### About Me
 I'm a passionate developer who loves building web applications, automating stuff, and experimenting with new technologies. Always learning, always improving.
