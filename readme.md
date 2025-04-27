@@ -3,10 +3,9 @@
 ### About Me
 I'm a passionate developer who loves building web applications, automating stuff, and experimenting with new technologies. Always learning, always improving.
 
-- Currently working on: Laravel E-commerce & Web Music Project
+- Last worked on: Laravel Web Cashier & Web Youtube Converter
 - Currently learning: Advanced Laravel, Tailwind CSS, and System Design
-- Ask me about: PHP, Laravel, JavaScript, or anything tech!
-- Goals for 2025: Build SaaS projects and launch my first indie product
+- Ask me about: PHP, Laravel, JavaScript, or anything!
 - Fun fact: I love blending music and coding together 
 
 ---
