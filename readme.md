@@ -1,24 +1,24 @@
 # Hi there 👋, I'm Muhammad Satrio Ramadhan!
 
-### 🚀 About Me
+### About Me
 I'm a passionate developer who loves building web applications, automating stuff, and experimenting with new technologies. Always learning, always improving.
 
-- 🔭 Currently working on: Laravel E-commerce & Web Music Project
-- 🌱 Currently learning: Advanced Laravel, Tailwind CSS, and System Design
-- 💬 Ask me about: PHP, Laravel, JavaScript, or anything tech!
-- 🎯 Goals for 2025: Build SaaS projects and launch my first indie product
-- ⚡ Fun fact: I love blending music and coding together 🎵👨‍💻
+- Currently working on: Laravel E-commerce & Web Music Project
+- Currently learning: Advanced Laravel, Tailwind CSS, and System Design
+- Ask me about: PHP, Laravel, JavaScript, or anything tech!
+- Goals for 2025: Build SaaS projects and launch my first indie product
+- Fun fact: I love blending music and coding together 🎵👨‍💻
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,html,css,js,mysql,git,github,vscode" />
 </div>
 
 ---
 
-### 📈 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rylieo&show_icons=true&theme=radical" alt="Muhammad Satrio's GitHub stats" />
@@ -30,9 +30,9 @@ I'm a passionate developer who loves building web applications, automating stuff
 
 ---
 
-### 📫 How to reach me
-- 📧 Email: [rylieo88@gmail.com](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=rylieo88@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/muhammad-satrio-2583482aa](https://www.linkedin.com/in/muhammad-satrio-2583482aa/)
+### How to reach me
+- Email: [rylieo88@gmail.com](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=rylieo88@gmail.com)
+- LinkedIn: [linkedin.com/in/muhammad-satrio-2583482aa](https://www.linkedin.com/in/muhammad-satrio-2583482aa/)
 
 ---
 
