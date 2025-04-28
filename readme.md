@@ -12,35 +12,22 @@
 <br>
 ⚡ Fun fact
 
-<h2>Tech Stack:</h2>
-<div class="tech-stack">
-  <img src="https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/-PHP-141414?style=flat&logo=php" alt="PHP">
-  <img src="https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/-Laravel-141414?style=flat&logo=laravel" alt="Laravel">
-  <img src="https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache" alt="Apache">
-  <img src="https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql" alt="MySQL">
-  <img src="https://img.shields.io/badge/-GitLab-141414?style=flat&logo=gitlab" alt="GitLab">
-  <img src="https://img.shields.io/badge/-GitHub-141414?style=flat&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Git-141414?style=flat&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/-Canva-141414?style=flat&logo=canva" alt="Canva">
-  <img src="https://img.shields.io/badge/-Trello-141414?style=flat&logo=trello" alt="Trello">
-  <img src="https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows" alt="Windows">
-</div>
+# Tech Stack:
 
-<style>
-.tech-stack {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  align-items: center;
-}
-.tech-stack img {
-  height: 28px;
-}
-</style>
+![HTML5](https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-141414?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)
+![Laravel](https://img.shields.io/badge/-Laravel-141414?style=flat&logo=laravel)
+![Apache](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)
+![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
+![GitLab](https://img.shields.io/badge/-GitLab-141414?style=flat&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-141414?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
+![Canva](https://img.shields.io/badge/-Canva-141414?style=flat&logo=canva)
+![Trello](https://img.shields.io/badge/-Trello-141414?style=flat&logo=trello)
+![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
 
 # GitHub Stats:
 
