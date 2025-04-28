@@ -1,9 +1,9 @@
 # About Me
 
 🔭 **I’m currently working on**:
-- web youtube converter to mp3
+- youtube mp3 converter website
 - discord message filter bot
-- web cashier
+- cashier website
 
 🌱 **I’m currently learning**:
 - laravel
