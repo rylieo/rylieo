@@ -1,21 +1,46 @@
-<h1 align="center">Hi 👋, I'm rio</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+# Hi there, I'm Muhammad Satrio Ramadhan!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rylieo&label=Profile%20views&color=0e75b6&style=flat" alt="rylieo" /> </p>
+### About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rylieo" alt="rylieo" /></a> </p>
+I am a passionate developer who loves building web applications, and experimenting with new technologies. Eager to learn, and always looking to improve.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- Last worked on: Laravel Web Cashier & Web Youtube Converter
+- Currently learning: Advanced Laravel, Tailwind CSS, and System Design
+- Ask me about: PHP, Laravel, JavaScript, or anything!
+- Fun fact: I love blending music and coding together
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+### Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,html,css,js,mysql,git,github,vscode" />
+</div>
+
+---
+
+### My GitHub Stats
+
+<p align="center">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=rylieo&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <br/>
+    <!-- GitHub Streak -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rylieo&theme=radical" alt="GitHub Streak" />
+    <br/>
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&layout=compact&theme=radical" alt="Top Languages" />
+    <br/>
+    <!-- Profile Details -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rylieo&theme=radical" alt="Profile Details" />
+    <br/>
+    <!-- Repositories by Most Stars -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rylieo&theme=radical" alt="Repos per Language" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rylieo&show_icons=true&locale=en&layout=compact" alt="rylieo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rylieo&show_icons=true&locale=en" alt="rylieo" /></p>
+### How to reach me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rylieo&" alt="rylieo" /></p>
+- Email: [rylieo88@gmail.com](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=rylieo88@gmail.com)
