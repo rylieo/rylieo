@@ -1,50 +1,15 @@
-<h2 align="center"> Welcome to my GitHub! I'm rylieo 👋 <br/> </h2>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<p align="center">
-  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=rylieo&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-</p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rylieo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rylieo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ⚡ Technologies
-- Front-end development using HTML, CSS, JavaScript, Vue, Bootstrap, Tailwind
-- Backend development using PHP (Laravel)
-- Database handling using MySQL
-- Deployment using basic Linux servers
+---
+[![](https://visitcount.itsvg.in/api?id=rylieo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Languages I use: <br>
-![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)
-![HTML5](https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-141414?style=flat&logo=php)
-![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=mysql)
-
-Tools & technologies I have worked with: <br>
-![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141414?style=flat&logo=tailwind-css)
-![Vue](https://img.shields.io/badge/-Vue-141414?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node.js-141414?style=flat&logo=node.js)
-![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)
-![Laravel](https://img.shields.io/badge/-Laravel-141414?style=flat&logo=laravel)
-![Vite](https://img.shields.io/badge/-Vite-141414?style=flat&logo=vite)
-
-### ✔️ I'm currently learning
-- Advanced Laravel techniques
-- Vue.js 3 Composition API
-- API integrations (like Telegram Bot API)
-
-### 💻 Projects
-- Working on personal Laravel + Vue e-commerce projects
-- Building full-stack applications with custom authentication
-
-### 🌴 Fun facts
-- I love customizing and improving web UI/UX
-- I enjoy solving complex backend problems
-
-### ☕ Get in touch
-- Email: <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=rylieo88@gmail.com">rylieo88@gmail.com</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
