@@ -10,7 +10,6 @@
 - python
 - javascript
 - php
-- iot
 
 ---
 
