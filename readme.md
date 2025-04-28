@@ -14,20 +14,20 @@
 
 # Tech Stack:
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
+  <img src="https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-PHP-141414?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Laravel-141414?style=flat&logo=laravel" />
+  <img src="https://img.shields.io/badge/-Git-141414?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows" />
+  <img src="https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache" />
+  <img src="https://img.shields.io/badge/-Canva-141414?style=flat&logo=canva" />
+  <img src="https://img.shields.io/badge/-GitLab-141414?style=flat&logo=gitlab" />
+  <img src="https://img.shields.io/badge/-GitHub-141414?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/-Trello-141414?style=flat&logo=trello" />
 
 # GitHub Stats:
 
