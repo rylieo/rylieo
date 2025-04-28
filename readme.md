@@ -1,4 +1,4 @@
-# About Me:
+About Me: <br>
 
 🔭 I’m currently working on
 <br>
@@ -12,7 +12,7 @@
 <br>
 ⚡ Fun fact
 
-# Tech Stack:
+Tech Stack: <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3)
@@ -29,7 +29,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-141414?style=flat&logo=trello)
 ![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
 
-# GitHub Stats:
+GitHub Stats: <br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="200px"/>
