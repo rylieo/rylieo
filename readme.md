@@ -27,6 +27,10 @@ I am a passionate developer who loves building web applications, and experimenti
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rylieo&theme=radical" alt="GitHub Streak" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&layout=compact&theme=radical" alt="Top Languages" />
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rylieo&theme=radical" alt="Profile Details" />
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rylieo&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
 
 ---
