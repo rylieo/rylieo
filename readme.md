@@ -10,5 +10,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="200px"/>
 </p>
