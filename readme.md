@@ -8,5 +8,7 @@
 
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rylieo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180px"/>
+</p>
