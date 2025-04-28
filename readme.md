@@ -40,9 +40,6 @@ I am a passionate developer who loves building web applications, and experimenti
     <!-- Commits per Language -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rylieo&theme=radical" alt="Most Commit Language" />
     <br/>
-    <!-- GitHub Contributions -->
-    <img src="https://raw.githubusercontent.com/rylieo/rylieo/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
-    <br/>
     <!-- GitHub Trophies -->
     <img src="https://github-profile-trophy.vercel.app/?username=rylieo&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
