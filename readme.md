@@ -40,6 +40,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-141414?style=flat&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-141414?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
+![FileZilla](https://img.shields.io/badge/-FileZilla-141414?style=flat&logo=filezilla)
 ![Canva](https://img.shields.io/badge/-Canva-141414?style=flat&logo=canva)
 ![Trello](https://img.shields.io/badge/-Trello-141414?style=flat&logo=trello)
 ![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
