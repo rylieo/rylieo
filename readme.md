@@ -22,9 +22,9 @@ I am a passionate developer who loves building web applications, and experimenti
 ### My GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rylieo&theme=radical" alt="GitHub Streak" />
-    <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=rylieo&show_icons=true&theme=radical" alt="Muhammad Satrio's GitHub stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rylieo&theme=radical" alt="GitHub Streak" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
