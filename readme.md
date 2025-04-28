@@ -36,12 +36,6 @@ I am a passionate developer who loves building web applications, and experimenti
     <br/>
     <!-- Repositories by Most Stars -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rylieo&theme=radical" alt="Repos per Language" />
-    <br/>
-    <!-- Commits per Language -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rylieo&theme=radical" alt="Most Commit Language" />
-    <br/>
-    <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=rylieo&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 
