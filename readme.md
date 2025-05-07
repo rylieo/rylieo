@@ -1,11 +1,13 @@
 # About Me
 
 🔭 **I’m currently working on**:
+
 - youtube mp3 converter website
 - discord message filter bot
 - cashier website
 
 🌱 **I’m currently learning**:
+
 - laravel
 - python
 - javascript
@@ -36,6 +38,6 @@
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="100px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="100px"/>
 </p>
