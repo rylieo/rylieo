@@ -38,6 +38,6 @@
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="100px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="100px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="150px"/>
 </p>
