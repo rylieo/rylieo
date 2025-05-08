@@ -32,6 +32,8 @@
 ![Canva](https://img.shields.io/badge/-Canva-141414?style=flat&logo=canva)
 ![Trello](https://img.shields.io/badge/-Trello-141414?style=flat&logo=trello)
 ![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
+![WinSCP](https://img.shields.io/badge/-WinSCP-141414?style=flat&logo=winscp)
+![AnyDesk](https://img.shields.io/badge/-AnyDesk-141414?style=flat&logo=anydesk)
 
 ---
 
