@@ -20,6 +20,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-141414?style=flat&logo=php)
+![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)
 ![Laravel](https://img.shields.io/badge/-Laravel-141414?style=flat&logo=laravel)
