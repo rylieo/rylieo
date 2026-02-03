@@ -1,13 +1,11 @@
 # About Me
 
-🔭 **I’m currently working on**:
-
+**I’m currently working on**:
 - youtube mp3 converter website
 - discord message filter bot
 - cashier website
 
-🌱 **I’m currently learning**:
-
+**I’m currently learning**:
 - laravel
 - python
 - javascript
