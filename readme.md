@@ -60,6 +60,6 @@
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="190px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=github_dark&layout=compact&hide_border=true&cache_seconds=86400" />
 </p>
