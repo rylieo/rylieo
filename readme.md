@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/aXYT2Fl.png" />
+  <img src="https://i.imgur.com/dZ2uYD3.png" />
 </p>
 
 # Tech Stack
