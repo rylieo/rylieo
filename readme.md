@@ -54,12 +54,3 @@
 ![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
 ![WinSCP](https://img.shields.io/badge/-WinSCP-141414?style=flat&logo=winscp)
 ![AnyDesk](https://img.shields.io/badge/-AnyDesk-141414?style=flat&logo=anydesk)
-
----
-
-# GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rylieo&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylieo&theme=github_dark&layout=compact&hide_border=true&cache_seconds=86400" />
-</p>
