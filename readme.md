@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/aXYT2Fl.png" />
+</p>
+
 # Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5)
