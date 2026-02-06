@@ -1,18 +1,3 @@
-# About Me
-
-**I’m currently working on**:
-- youtube mp3 converter website
-- discord message filter bot
-- cashier website
-
-**I’m currently learning**:
-- laravel
-- python
-- javascript
-- php
-
----
-
 # Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5)
