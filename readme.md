@@ -1,4 +1,4 @@
-## Welcome
+### Heyy, Glad to be here too. What’s up?
 
 <div align="center">
 <pre>
@@ -36,7 +36,7 @@
 </pre>
 </div>
 
-# Badges
+### Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-language-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-language-blue?logo=css3)
