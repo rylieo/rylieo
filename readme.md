@@ -36,11 +36,11 @@
 
 # Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-141414?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
-![Laravel](https://img.shields.io/badge/-Laravel-141414?style=flat&logo=laravel)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML-HTML5-orange?logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS-CSS3-orange?logo=CSS3)
+![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow?logo=JavaScript)
+![PHP](https://img.shields.io/badge/PHP-PHP-purple?logo=PHP)
+![Python](https://img.shields.io/badge/Python-Python-blue?logo=Python)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-red?logo=Laravel)
+![Bootstrap](https://img.shields.io/badge/CSS-Bootstrap-purple?logo=Bootstrap)
+![MySQL](https://img.shields.io/badge/DB-MySQL-blue?logo=MySQL)
